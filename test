@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cahier des charges - Mètre à ruban Facom 801A</title>
+<style>
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #eceff1;
+    color: #222;
+    margin: 0;
+    padding: 24px 16px;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  h1 {
+    font-size: 1.6rem;
+    margin: 0 0 4px;
+  }
+  .sous-titre {
+    margin: 0 0 20px;
+    color: #555;
+  }
+  section {
+    background: #fff;
+    border-left: 6px solid #c8102e;
+    border-radius: 4px;
+    padding: 4px 20px 12px;
+    margin-bottom: 16px;
+  }
+  section.designer {
+    border-left-color: #8a949c;
+  }
+  h2 {
+    font-size: 1.15rem;
+    margin: 14px 0 8px;
+  }
+  ul {
+    margin: 0;
+    padding-left: 20px;
+    line-height: 1.6;
+  }
+  .conclusion {
+    font-style: italic;
+    margin-top: 12px;
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Cahier des charges pour la conception</h1>
+  <p class="sous-titre">Mètre à ruban Facom 801A</p>
+
+  <section>
+    <h2>Besoins</h2>
+    <ul>
+      <li>Objet pour mesurer des longueurs.</li>
+      <li>Ciblé pour les professionnels et les bricoleurs.</li>
+      <li>Doit se ranger facilement.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contraintes</h2>
+    <ul>
+      <li>Matériaux solides, qui résistent aux chocs et faciles à nettoyer.</li>
+      <li>Graduations lisibles.</li>
+      <li>Utilisation simple, d'une seule main.</li>
+      <li>Petit, pour tenir dans une poche.</li>
+    </ul>
+  </section>
+
+  <section class="designer">
+    <h2>Ici, le choix du designer</h2>
+    <ul>
+      <li>Boîtier en métal chromé, donc résistant et facile à nettoyer.</li>
+      <li>Formes arrondies pour bien tenir dans la main.</li>
+      <li>Des stries sur le devant pour que les doigts ne glissent pas.</li>
+      <li>Rouge et argent : le rouge rappelle la marque, le ruban jaune se lit bien.</li>
+      <li>Le logo Facom est bien visible pour reconnaître la marque.</li>
+    </ul>
+    <p class="conclusion">Cet objet est utile et fonctionnel, il ne cherche pas à être amusant comme le coquetier Cico.</p>
+  </section>
+</main>
+</body>
+</html>
